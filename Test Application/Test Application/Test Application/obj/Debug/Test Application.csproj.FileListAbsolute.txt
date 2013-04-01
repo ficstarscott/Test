@@ -1,0 +1,8 @@
+Z:\users\Scott\GitHub Test Repository\Test Application\Test Application\Test Application\bin\Debug\Test Application.exe.config
+Z:\users\Scott\GitHub Test Repository\Test Application\Test Application\Test Application\bin\Debug\Test Application.exe
+Z:\users\Scott\GitHub Test Repository\Test Application\Test Application\Test Application\bin\Debug\Test Application.pdb
+Z:\users\Scott\GitHub Test Repository\Test Application\Test Application\Test Application\obj\Debug\Test Application.csprojResolveAssemblyReference.cache
+Z:\users\Scott\GitHub Test Repository\Test Application\Test Application\Test Application\obj\Debug\Test_Application.Properties.Resources.resources
+Z:\users\Scott\GitHub Test Repository\Test Application\Test Application\Test Application\obj\Debug\Test Application.csproj.GenerateResource.Cache
+Z:\users\Scott\GitHub Test Repository\Test Application\Test Application\Test Application\obj\Debug\Test Application.exe
+Z:\users\Scott\GitHub Test Repository\Test Application\Test Application\Test Application\obj\Debug\Test Application.pdb
