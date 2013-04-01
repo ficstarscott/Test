@@ -6,3 +6,4 @@ Z:\users\Scott\GitHub Test Repository\Test Application\Test Application\Test App
 Z:\users\Scott\GitHub Test Repository\Test Application\Test Application\Test Application\obj\Debug\Test Application.csproj.GenerateResource.Cache
 Z:\users\Scott\GitHub Test Repository\Test Application\Test Application\Test Application\obj\Debug\Test Application.exe
 Z:\users\Scott\GitHub Test Repository\Test Application\Test Application\Test Application\obj\Debug\Test Application.pdb
+Z:\users\Scott\GitHub Test Repository\Test Application\Test Application\Test Application\obj\Debug\Test_Application.frmMain.resources

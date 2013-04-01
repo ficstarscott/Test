@@ -16,5 +16,12 @@ namespace Test_Application
         {
             InitializeComponent();
         }
+
+        private void comboBoxWebsite_SelectedValueChanged(object sender, EventArgs e)
+        {
+            string badString = "Hello";
+            badString += " World";
+            MessageBox.Show(badString);
+        }
     }
 }

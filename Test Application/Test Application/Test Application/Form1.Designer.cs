@@ -38,6 +38,7 @@
             this.comboBoxWebsite.Name = "comboBoxWebsite";
             this.comboBoxWebsite.Size = new System.Drawing.Size(152, 21);
             this.comboBoxWebsite.TabIndex = 0;
+            this.comboBoxWebsite.SelectedValueChanged += new System.EventHandler(this.comboBoxWebsite_SelectedValueChanged);
             // 
             // frmMain
             // 
